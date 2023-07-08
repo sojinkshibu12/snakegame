@@ -1,5 +1,4 @@
 # Snake Game
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/sojinkshibu12/snakegame)
 
 
 This is a classic Snake game implemented in JavaScript. The game is played on a where the player controls a snake that moves around and eats food to grow longer.The objective is to avoid colliding with the walls or the snake's own body.
