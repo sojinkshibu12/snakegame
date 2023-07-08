@@ -9,7 +9,7 @@ This is a classic Snake game implemented in JavaScript. The game is played on a 
 1. To play the game, follow these steps:
 2. Clone the repository 
 ```sh
-$ git clone https://github.com/your-username/snake-game.git
+$ git clone https://github.com/sojinkshibu12/snakegame.git
 ```
 3. Open the [snake.html](https://github.com/sojinkshibu12/snakegame/blob/main/snake.html) file in your web browser.
 
